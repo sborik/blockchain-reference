@@ -51,4 +51,8 @@ contract MyContract {
 
 
 Declaring Functions
+
+contract Functions {
+
+}
      
